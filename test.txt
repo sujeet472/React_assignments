@@ -1,0 +1,1 @@
+this is just a normal file.. delete it after the git setup to ur local folder
